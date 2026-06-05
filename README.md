@@ -21,19 +21,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS Products
 
-### Core Frameworks & Platforms
+### Pricing (USD/month)
 
-- **[LangChain](https://www.langchain.com/)**  
-  The most widely adopted framework for building LLM applications with extensive integrations, LangSmith observability, and production tools.
+| Product | Description | Price (USD/month) | Free tier (limit) |
+|---|---|---:|---|
+| [LangChain](https://www.langchain.com/) (LangChain Cloud / LangSmith) | Cloud platform for observability, deployment, and agent orchestration | Free: 1 seat; Team add-on $39/seat/mo; metered usage for traces, deployments, and engines (see pricing) | Free: 1 seat; 5k base traces/mo included; 1 free Dev deployment; LLM usage billed separately |
+| [LangGraph](https://www.langchain.com/langgraph) | Stateful, graph-based extension of LangChain | Hosted via LangChain Cloud — see LangChain pricing; Self-host: free | Self-host: free; Hosted: follows LangChain Cloud free tier |
+| [Flowise](https://flowiseai.com/) | Low-code visual flow builder — open-source and hosted options | Hosted: contact Flowise / login for pricing; Self-host: free | Self-host: free (open-source) |
+| [Langflow](https://www.langflow.org/) | Visual IDE for LangChain applications (open-source) | Self-host: free; Hosted offerings: contact providers | Self-host: free |
+| Mastra (hosted) | Modern agent platform with enterprise support | Contact sales / custom pricing | Open-source framework: free to self-host |
+| PydanticAI (cloud features) | Type-safe LLM integrations and cloud features | Contact sales / custom pricing | Core libraries: free (open-source) |
 
-- **[LangGraph](https://www.langchain.com/langgraph)**  
-  Stateful, graph-based extension of LangChain for building reliable multi-agent and complex workflows.
-
-- **[Flowise](https://flowiseai.com/)**  
-  Low-code platform for building LLM apps and agents with visual drag-and-drop interface.
-
-- **[Langflow](https://www.langflow.org/)**  
-  Visual development environment for LangChain-based applications with strong community support.
+(Notes: Pricing details vary by usage — model/LLM costs, trace volumes, compute, and seats. For hosted products where public pricing is not listed, refer to the vendor pricing pages linked above.)
 
 ### Advanced Platforms
 
