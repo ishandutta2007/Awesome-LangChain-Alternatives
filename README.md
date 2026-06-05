@@ -97,6 +97,20 @@ Star the repo if you find it useful!
 - Framework choice depends heavily on your specific use case (prototyping speed vs production control vs visual development).
 - Always review licensing and security implications when building with third-party models and tools.
 
+
+## 📈 Star History
+
+<div align="center">
+	<a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-LangChain-Alternatives&type=date&legend=bottom-right">
+	 <picture>
+	   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-LangChain-Alternatives&type=date&theme=dark&legend=bottom-right" />
+	   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-LangChain-Alternatives&type=date&legend=bottom-right" />
+	   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-LangChain-Alternatives&type=date&legend=bottom-right" />
+	 </picture>
+	</a>
+</div>
+
+
 ---
 
 **Made for AI developers, LLM engineers, and agent builders.**  
