@@ -1,0 +1,15 @@
+<svg width="800" height="200" viewBox="0 0 800 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="200" rx="10" fill="url(#paint0_linear)"/>
+  <defs>
+    <linearGradient id="paint0_linear" x1="0" y1="0" x2="800" y2="200" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2D3436"/>
+      <stop offset="1" stop-color="#00B894"/>
+    </linearGradient>
+  </defs>
+  <text x="400" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="40" font-weight="bold" fill="white">Awesome LangChain Alternatives</text>
+  <text x="400" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#DFE6E9">The Best LLM Frameworks, Agent Orchestration &amp; Multi-Agent Systems</text>
+  <circle cx="50" cy="50" r="20" fill="white" fill-opacity="0.1"/>
+  <circle cx="750" cy="150" r="30" fill="white" fill-opacity="0.1"/>
+  <path d="M700 40L720 60L700 80" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" opacity="0.3"/>
+  <path d="M100 160L80 140L100 120" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" opacity="0.3"/>
+</svg>
