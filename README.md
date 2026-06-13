@@ -23,14 +23,14 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Pricing (USD/month)
 
-| Product | Description | Price (USD/month) | Free tier (limit) |
-|---|---|---:|---|
-| [LangChain](https://www.langchain.com/) (LangChain Cloud / LangSmith) | Cloud platform for observability, deployment, and agent orchestration | Free: 1 seat; Team add-on $39/seat/mo; metered usage for traces, deployments, and engines (see pricing) | Free: 1 seat; 5k base traces/mo included; 1 free Dev deployment; LLM usage billed separately |
-| [LangGraph](https://www.langchain.com/langgraph) | Stateful, graph-based extension of LangChain | Hosted via LangChain Cloud — see LangChain pricing; Self-host: free | Self-host: free; Hosted: follows LangChain Cloud free tier |
-| [Flowise](https://flowiseai.com/) | Low-code visual flow builder — open-source and hosted options | Hosted: contact Flowise / login for pricing; Self-host: free | Self-host: free (open-source) |
-| [Langflow](https://www.langflow.org/) | Visual IDE for LangChain applications (open-source) | Self-host: free; Hosted offerings: contact providers | Self-host: free |
-| Mastra (hosted) | Modern agent platform with enterprise support | Contact sales / custom pricing | Open-source framework: free to self-host |
-| PydanticAI (cloud features) | Type-safe LLM integrations and cloud features | Contact sales / custom pricing | Core libraries: free (open-source) |
+| Product | Description | Company Size / Valuation | Price (USD/month) | Free tier (limit) |
+|---|---|---|---:|---|
+| [Langflow](https://www.langflow.org/) | Visual IDE for LangChain applications (open-source) | **IBM** (~$170B Market Cap) | Self-host: free; Hosted offerings: contact providers | Self-host: free |
+| [Flowise](https://flowiseai.com/) | Low-code visual flow builder — open-source and hosted options | **Workday** (~$75B Market Cap) | Hosted: contact Flowise / login for pricing; Self-host: free | Self-host: free (open-source) |
+| [LangChain](https://www.langchain.com/) (LangChain Cloud / LangSmith) | Cloud platform for observability, deployment, and agent orchestration | **$1.25B** (Valuation) | Free: 1 seat; Team add-on $39/seat/mo; metered usage for traces, deployments, and engines (see pricing) | Free: 1 seat; 5k base traces/mo included; 1 free Dev deployment; LLM usage billed separately |
+| [LangGraph](https://www.langchain.com/langgraph) | Stateful, graph-based extension of LangChain | **$1.25B** (LangChain Inc.) | Hosted via LangChain Cloud — see LangChain pricing; Self-host: free | Self-host: free; Hosted: follows LangChain Cloud free tier |
+| Mastra (hosted) | Modern agent platform with enterprise support | **$35.5M** (Funding) | Contact sales / custom pricing | Open-source framework: free to self-host |
+| PydanticAI (cloud features) | Type-safe LLM integrations and cloud features | **$17.2M** (Funding) | Contact sales / custom pricing | Core libraries: free (open-source) |
 
 (Notes: Pricing details vary by usage — model/LLM costs, trace volumes, compute, and seats. For hosted products where public pricing is not listed, refer to the vendor pricing pages linked above.)
 
